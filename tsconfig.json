@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "removeComments": true,
+    "sourceMap": true,
+    "downlevelIteration": true,
+    "target": "es5",
+    "lib": [
+      "es6"
+    ],
+    "outDir": "dist"
+  },
+  "include": [
+    "src/index.ts"
+  ],
+  "compileOnSave": true
+}
